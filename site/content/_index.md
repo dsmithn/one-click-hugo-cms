@@ -1,5 +1,5 @@
 ---
-title: Destin's amazing HVAC Company
+title: Destin's Amazing HVAC Company
 subtitle: This website was trivial to make...but can it look professional and
   have SEO out of the box?
 image: /img/home-jumbotron.jpg
